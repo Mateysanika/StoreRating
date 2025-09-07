@@ -1,0 +1,30 @@
+
+To run and develop this project, you need the following:
+
+System requirement:
+- Node.js (v14 or higher recommended)
+- npm (comes with Node.js)
+
+For backend
+- Navigate to the `backend` folder
+- Run `npm install` to install dependencies
+- To start the server:
+  - Development: `npm run start`
+  - Watch mode: `npm run start:dev`
+  - Production: `npm run start:prod`
+- To run tests:
+  - Unit tests: `npm run test`
+  - End-to-end tests: `npm run test:e2e`
+  - Coverage: `npm run test:cov`
+- Configuration files:
+  - `package.json`, `tsconfig.json`, `tsconfig.build.json`, `nest-cli.json`, `eslint.config.mjs`, `.env` (if needed)
+
+For Frontend
+- Navigate to the `frontend` folder
+- Run `npm install` to install dependencies
+- To start the app: `npm start`
+- Configuration files:
+  - `package.json`, `tsconfig.json`, `.env` (if needed)
+
+
+If you have any issues, make sure Node.js and npm are installed and up to date.
