@@ -26,5 +26,8 @@ For Frontend
 - Configuration files:
   - `package.json`, `tsconfig.json`, `.env` (if needed)
 
+For Admin Authorization Key on signup page:
+- Just type "AdminAuthKey" when prompted for authorization key.
 
 If you have any issues, make sure Node.js and npm are installed and up to date.
+
